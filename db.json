@@ -1,0 +1,47 @@
+{
+  "config": {
+    "version": 1,
+    "nodes": [
+      {
+        "id": 1,
+        "url": "https://43.198.134.127",
+        "enabled": true
+      },
+      {
+        "id": 2,
+        "url": "https://18.181.88.195",
+        "enabled": true
+      },
+      {
+        "id": 3,
+        "url": "https://13.214.166.147",
+        "enabled": true
+      },
+      {
+        "id": 4,
+        "url": "https://38.76.175.55",
+        "enabled": true
+      },
+      {
+        "id": 5,
+        "url": "https://193.227.103.229",
+        "enabled": true
+      },
+      {
+        "id": 6,
+        "url": "https://70.39.200.202",
+        "enabled": true
+      },
+      {
+        "id": 7,
+        "url": "https://45.202.8.17",
+        "enabled": true
+      },
+      {
+        "id": 8,
+        "url": "https://70.39.200.139",
+        "enabled": true
+      }
+    ]
+  }
+}
