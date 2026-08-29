@@ -2,7 +2,11 @@
   "config": {
     "version": 3,
     "nodes": [
-      
+      {
+        "id": 1,
+        "url": "https://43.198.134.127",
+        "enabled": true
+      },
       {
         "id": 2,
         "url": "https://18.181.88.195",
