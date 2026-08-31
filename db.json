@@ -1,142 +1,144 @@
 {
-  "version": 15,
-  "updated_at": "2026-08-31T00:00:00Z",
-  "lines": [
-    {
-      "id": "line-43",
-      "name": "线路1",
-      "region": "hk",
-      "url": "https://43.198.134.127/",
-      "enabled": true,
-      "priority": 1
-    },
-    {
-      "id": "line-18",
-      "name": "线路2",
-      "region": "jp",
-      "url": "https://18.181.88.195/",
-      "enabled": true,
-      "priority": 2
-    },
-    {
-      "id": "line-13",
-      "name": "线路3",
-      "region": "sg",
-      "url": "https://13.214.166.147/",
-      "enabled": true,
-      "priority": 3
-    },
-    {
-      "id": "line-70156",
-      "name": "线路4",
-      "region": "hk",
-      "url": "https://70.39.200.156/",
-      "enabled": true,
-      "priority": 4
-    },
-    {
-      "id": "line-45202",
-      "name": "线路5",
-      "region": "us",
-      "url": "https://45.202.8.17/",
-      "enabled": true,
-      "priority": 5
-    },
-    {
-      "id": "line-70139",
-      "name": "线路6",
-      "region": "hk",
-      "url": "https://70.39.200.139/",
-      "enabled": true,
-      "priority": 6
-    },
-    {
-      "id": "line-70169",
-      "name": "线路7",
-      "region": "hk",
-      "url": "https://70.39.200.169/",
-      "enabled": true,
-      "priority": 7
-    },
-    {
-      "id": "line-api2.385dh",
-      "name": "线路8",
-      "region": "hk",
-      "url": "https://api2.385dh.com/",
-      "enabled": true,
-      "priority": 8
-    },
-    {
-      "id": "line-api3.693qk",
-      "name": "线路9",
-      "region": "hk",
-      "url": "https://api3.693qk.com/",
-      "enabled": true,
-      "priority": 9
-    },
-    {
-      "id": "line-api4.darkcnrus",
-      "name": "线路10",
-      "region": "hk",
-      "url": "https://api4.darkcnrus.com/",
-      "enabled": true,
-      "priority": 10
-    },
-    {
-      "id": "line-api5.darkersf",
-      "name": "线路11",
-      "region": "hk",
-      "url": "https://api5.darkersf.com/",
-      "enabled": true,
-      "priority": 11
-    },
-    {
-      "id": "line-19441",
-      "name": "线路12",
-      "region": "us",
-      "url": "https://194.147.98.41/",
-      "enabled": true,
-      "priority": 12
-    },
-    {
-      "id": "line-19473",
-      "name": "线路13",
-      "region": "us",
-      "url": "https://194.147.98.73/",
-      "enabled": true,
-      "priority": 13
-    },
-    {
-      "id": "line-19479",
-      "name": "线路14",
-      "region": "us",
-      "url": "https://194.147.98.79/",
-      "enabled": true,
-      "priority": 14
-    },
-    {
-      "id": "line-649088",
-      "name": "线路15",
-      "region": "hk",
-      "url": "https://64.90.27.88/",
-      "enabled": true,
-      "priority": 15
-    },
-    {
-      "id": "line-6490162",
-      "name": "线路16",
-      "region": "hk",
-      "url": "https://64.90.27.162/",
-      "enabled": true,
-      "priority": 16
-    },
-    {
-      "id": "line-6490122",
-      "name": "线路17",
-      "region": "hk",
-      "url": "https://64.90.27.122/",
-      "enabled": true,
-      "priority": 17
-    }
-  ]
+  "config": {
+    "version": 15,
+    "updated_at": "2026-08-31T00:00:00Z",
+    "lines": [
+      {
+        "id": "line-43",
+        "name": "线路1",
+        "region": "hk",
+        "url": "https://43.198.134.127/",
+        "enabled": true,
+        "priority": 1
+      },
+      {
+        "id": "line-18",
+        "name": "线路2",
+        "region": "jp",
+        "url": "https://18.181.88.195/",
+        "enabled": true,
+        "priority": 2
+      },
+      {
+        "id": "line-13",
+        "name": "线路3",
+        "region": "sg",
+        "url": "https://13.214.166.147/",
+        "enabled": true,
+        "priority": 3
+      },
+      {
+        "id": "line-70156",
+        "name": "线路4",
+        "region": "hk",
+        "url": "https://70.39.200.156/",
+        "enabled": true,
+        "priority": 4
+      },
+      {
+        "id": "line-45202",
+        "name": "线路5",
+        "region": "us",
+        "url": "https://45.202.8.17/",
+        "enabled": true,
+        "priority": 5
+      },
+      {
+        "id": "line-70139",
+        "name": "线路6",
+        "region": "hk",
+        "url": "https://70.39.200.139/",
+        "enabled": true,
+        "priority": 6
+      },
+      {
+        "id": "line-70169",
+        "name": "线路7",
+        "region": "hk",
+        "url": "https://70.39.200.169/",
+        "enabled": true,
+        "priority": 7
+      },
+      {
+        "id": "line-api2.385dh",
+        "name": "线路8",
+        "region": "hk",
+        "url": "https://api2.385dh.com/",
+        "enabled": true,
+        "priority": 8
+      },
+      {
+        "id": "line-api3.693qk",
+        "name": "线路9",
+        "region": "hk",
+        "url": "https://api3.693qk.com/",
+        "enabled": true,
+        "priority": 9
+      },
+      {
+        "id": "line-api4.darkcnrus",
+        "name": "线路10",
+        "region": "hk",
+        "url": "https://api4.darkcnrus.com/",
+        "enabled": true,
+        "priority": 10
+      },
+      {
+        "id": "line-api5.darkersf",
+        "name": "线路11",
+        "region": "hk",
+        "url": "https://api5.darkersf.com/",
+        "enabled": true,
+        "priority": 11
+      },
+      {
+        "id": "line-19441",
+        "name": "线路12",
+        "region": "us",
+        "url": "https://194.147.98.41/",
+        "enabled": true,
+        "priority": 12
+      },
+      {
+        "id": "line-19473",
+        "name": "线路13",
+        "region": "us",
+        "url": "https://194.147.98.73/",
+        "enabled": true,
+        "priority": 13
+      },
+      {
+        "id": "line-19479",
+        "name": "线路14",
+        "region": "us",
+        "url": "https://194.147.98.79/",
+        "enabled": true,
+        "priority": 14
+      },
+      {
+        "id": "line-649088",
+        "name": "线路15",
+        "region": "hk",
+        "url": "https://64.90.27.88/",
+        "enabled": true,
+        "priority": 15
+      },
+      {
+        "id": "line-6490162",
+        "name": "线路16",
+        "region": "hk",
+        "url": "https://64.90.27.162/",
+        "enabled": true,
+        "priority": 16
+      },
+      {
+        "id": "line-6490122",
+        "name": "线路17",
+        "region": "hk",
+        "url": "https://64.90.27.122/",
+        "enabled": true,
+        "priority": 17
+      }
+    ]
+  }
 }
