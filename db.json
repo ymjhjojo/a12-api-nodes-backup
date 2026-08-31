@@ -1,47 +1,90 @@
 {
-  "config": {
-    "version": 4,
-    "nodes": [
-      {
-        "id": 1,
-        "url": "https://43.198.134.127",
-        "enabled": true
-      },
-      {
-        "id": 2,
-        "url": "https://18.181.88.195",
-        "enabled": true
-      },
-      {
-        "id": 3,
-        "url": "https://13.214.166.147",
-        "enabled": true
-      },
-      {
-        "id": 4,
-        "url": "https://38.76.175.55",
-        "enabled": true
-      },
-      {
-        "id": 5,
-        "url": "https://193.227.103.229",
-        "enabled": true
-      },
-      {
-        "id": 6,
-        "url": "https://70.39.200.202",
-        "enabled": true
-      },
-      {
-        "id": 7,
-        "url": "https://45.202.8.17",
-        "enabled": true
-      },
-      {
-        "id": 8,
-        "url": "https://70.39.200.139",
-        "enabled": true
-      }
-    ]
-  }
+  "version": 5,
+  "nodes": [
+    {
+      "id": 1,
+      "url": "https://43.198.134.127/",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "url": "https://18.181.88.195/",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "url": "https://13.214.166.147/",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "url": "https://70.39.200.156/",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "url": "https://45.202.8.17/",
+      "enabled": true
+    },
+    {
+      "id": 6,
+      "url": "https://70.39.200.139/",
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "url": "https://70.39.200.169/",
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "url": "https://api2.385dh.com/",
+      "enabled": true
+    },
+    {
+      "id": 9,
+      "url": "https://api3.693qk.com/",
+      "enabled": true
+    },
+    {
+      "id": 10,
+      "url": "https://api4.darkcnrus.com/",
+      "enabled": true
+    },
+    {
+      "id": 11,
+      "url": "https://api5.darkersf.com/",
+      "enabled": true
+    },
+    {
+      "id": 12,
+      "url": "https://194.147.98.41/",
+      "enabled": true
+    },
+    {
+      "id": 13,
+      "url": "https://194.147.98.73/",
+      "enabled": true
+    },
+    {
+      "id": 14,
+      "url": "https://194.147.98.79/",
+      "enabled": true
+    },
+    {
+      "id": 15,
+      "url": "https://64.90.27.88/",
+      "enabled": true
+    },
+    {
+      "id": 16,
+      "url": "https://64.90.27.162/",
+      "enabled": true
+    },
+    {
+      "id": 17,
+      "url": "https://64.90.27.122/",
+      "enabled": true
+    }
+  ]
 }
