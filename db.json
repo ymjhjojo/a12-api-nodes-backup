@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "updated_at": "2026-08-31T00:00:00Z",
+  "version": 17,
+  "updated_at": "2026-09-05T14:23:37Z",
   "lines": [
     {
       "id": "line-43",
@@ -137,6 +137,14 @@
       "url": "https://64.90.27.122/",
       "enabled": true,
       "priority": 17
+    },
+    {
+      "id": "line-10360",
+      "name": "线路18",
+      "region": "cn",
+      "url": "https://121.41.103.60/",
+      "enabled": true,
+      "priority": 18
     }
   ]
 }
